@@ -26,7 +26,7 @@ public class Main {
      //task//
 
      int year200=1822;
-     for (int b=0; b<2100; b+=79){
+     for (int b=0; b<2122; b+=79){
          if (b>=year200) System.out.println(b);}
 
 
